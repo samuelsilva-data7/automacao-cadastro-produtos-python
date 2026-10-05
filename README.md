@@ -46,7 +46,7 @@ Cadastro dos produtos
 ### 1\. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/automacao-cadastro-produtos-python.git
+git clone [https://github.com/samuelsilva-data7/automacao-cadastro-produtos-python]
 cd automacao-cadastro-produtos-python
 ```
 
