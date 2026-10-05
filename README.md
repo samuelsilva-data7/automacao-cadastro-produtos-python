@@ -65,7 +65,6 @@ SEU\_EMAIL\_AQUI
 SUA\_SENHA\_AQUI
 ```
 
-**Não publique credenciais reais no GitHub.**
 
 ### 4\. Execute
 
